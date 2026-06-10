@@ -1,15 +1,11 @@
 # AFDM-Based ISAC for Asynchronous NR-V2X Mode 2 Sidelink
+      
 
-[![CI](https://github.com/<author-repository>/actions/workflows/ci.yml/badge.svg)](https://github.com/<author-repository>/actions/workflows/ci.yml)
-[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Code style: PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://peps.python.org/pep-0008/)
-
-Reproducibility code for the *IEEE Access* paper
+Reproducibility code for the reserach paper
 
 > **AFDM-Based Integrated Sensing and Communication for Asynchronous NR-V2X
 > Mode 2 Sidelink with Fractional Doppler Compensation**
-> S. Kota, P. Dhilleswararao, *et al.* (Manuscript ID `Access-2026-21423`).
+> S. Kota, P. Dhilleswararao, P.S Babu *et al.* (Manuscript ID `Access-2026-21423`).
 
 A single command — `python run_all.py` — regenerates **every figure and table**
 in the paper (Figs. 3–10 and Table 2) into `results/`.
@@ -185,7 +181,7 @@ If you use this code, please cite the paper (see [`CITATION.cff`](CITATION.cff))
   author  = {Kota, Surendra and Dhilleswararao, Pudi and others},
   title   = {{AFDM}-Based Integrated Sensing and Communication for Asynchronous
              {NR-V2X} Mode 2 Sidelink with Fractional Doppler Compensation},
-  journal = {IEEE Access},
+  journal = {IEEE Open Journal of Communication},
   year    = {2026}
 }
 ```
@@ -194,5 +190,4 @@ If you use this code, please cite the paper (see [`CITATION.cff`](CITATION.cff))
 Contributions are welcome — please read [`CONTRIBUTING.md`](CONTRIBUTING.md) and
 our [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md).
 
-## License
-Distributed under the MIT License. See [`LICENSE`](LICENSE).
+
