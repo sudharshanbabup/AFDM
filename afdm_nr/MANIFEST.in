@@ -1,0 +1,3 @@
+include README.md LICENSE CITATION.cff requirements.txt
+recursive-include experiments *.py
+recursive-include docs *

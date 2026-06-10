@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "AFDM-Based ISAC for Asynchronous NR-V2X Mode 2 Sidelink — Reproducibility Code"
+message: "If you use this software, please cite both the software and the paper below."
+type: software
+authors:
+  - family-names: Kota
+    given-names: Surendra
+  - family-names: Dhilleswararao
+    given-names: Pudi
+license: MIT
+repository-code: "https://github.com/<author-repository>"
+version: "1.0.0"
+date-released: "2026-06-08"
+keywords:
+  - AFDM
+  - ISAC
+  - NR-V2X
+  - sidelink
+  - OTFS
+preferred-citation:
+  type: article
+  title: "AFDM-Based Integrated Sensing and Communication for Asynchronous NR-V2X Mode 2 Sidelink with Fractional Doppler Compensation"
+  authors:
+    - family-names: Kota
+      given-names: Surendra
+    - family-names: Dhilleswararao
+      given-names: Pudi
+  journal: "IEEE Access"
+  year: 2026
